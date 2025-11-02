@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=15vDemo.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=15vDemo.SchDoc|FileName=ExampleCircuit.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=15vDemo.SchDoc|FileName=Filter.SchDoc|SheetNumber=3
